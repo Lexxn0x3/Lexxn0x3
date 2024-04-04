@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile! I'm a CS Student and a proud member of the Siemens DI team, deeply passionate about VR, tech, space, games, electronics, Linux, servers, and general computer programs. Here, you'll find projects that span these interests, showcasing my journey through the ever-evolving world of technology.
 
+## Don't Panic
+
+> “I may not have gone where I intended to go, but I think I have ended up where I needed to be.” - Douglas Adams, The Long Dark Tea-Time of the Soul
+
 ## 🙋‍♂️ About Me
 
 - 🎓 I'm currently diving deep into the realms of Rust, Zig, and Astro, exploring their potential to revolutionize the way we code.
@@ -54,21 +58,11 @@ Let's connect and create something amazing together! 🚀
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lexxn0x3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://api.codeclimate.com/v1/badges/<project_id>/maintainability)
-![](https://img.shields.io/david/<username>/<repository>.svg?style=flat-square)
-
-![](https://img.shields.io/github/license/Lexxn0x3/<repository>.svg?style=flat-square)
-![](https://img.shields.io/github/package-json/v/Lexxn0x3/<repository>.svg?style=flat-square)
-
 ![](https://img.shields.io/badge/Uses-GitHub%20Codespaces-2F2625?style=flat-square&logo=github)
 ![](https://img.shields.io/badge/%E2%98%95-Coffee-black?style=flat-square)
 ![](https://img.shields.io/badge/Loves-Space%20Exploration-blue?style=flat-square)
 
 ![](https://img.shields.io/badge/Answer%20to%20Life%2C%20Universe%20and%20Everything-42-9cf)
-
-## Don't Panic
-
-> “I may not have gone where I intended to go, but I think I have ended up where I needed to be.” - Douglas Adams, The Long Dark Tea-Time of the Soul
 
 ![](https://img.shields.io/badge/Earth-Mostly%20Harmless-7B68EE.svg)
 
