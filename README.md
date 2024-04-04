@@ -3,13 +3,19 @@
 Welcome to my GitHub profile! I'm a CS Student and a proud member of the Siemens DI team, deeply passionate about VR, tech, space, games, electronics, Linux, servers, and general computer programs. Here, you'll find projects that span these interests, showcasing my journey through the ever-evolving world of technology.
 
 ## Don't Panic
-<p>
-  <img src="dont_panic.svg" width="250" align="left" />
-  <blockquote>
-    “I may not have gone where I intended to go, but I think I have ended up where I needed to be.” - Douglas Adams, The Long Dark Tea-Time of the Soul
-  </blockquote>
-  <br>
-</p>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="dont_panic.svg" style="width: 250px; margin-right: 20px;" />
+  <div>
+    <p style="font-size: 20px; color: #333; margin: 0;">
+      “I may not have gone where I intended to go, but I think I have ended up where I needed to be.”
+    </p>
+    <p style="font-size: 16px; color: #666; text-align: right; margin-top: 5px;">
+      — Douglas Adams, <em>The Long Dark Tea-Time of the Soul</em>
+    </p>
+  </div>
+</div>
+
 
 ## 🙋‍♂️ About Me
 
