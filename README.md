@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm a CS Student and a proud member of the Siemens
 </div>
 
 
+
 ## 🙋‍♂️ About Me
 
 - 🎓 I'm currently diving deep into the realms of Rust, Zig, and Astro, exploring their potential to revolutionize the way we code.
