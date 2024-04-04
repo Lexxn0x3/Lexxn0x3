@@ -6,8 +6,7 @@ Welcome to my GitHub profile! I'm a CS Student and a proud member of the Siemens
 
 > “I may not have gone where I intended to go, but I think I have ended up where I needed to be.” - Douglas Adams, The Long Dark Tea-Time of the Soul
 
-![](https://img.shields.io/badge/Quote-I%20may%20not%20have%20gone%20where%20I%20intended%20to%20go%2C%20but%20I%20think%20I%20have%20ended%20up%20where%20I%20needed%20to%20be.-blueviolet)
-
+![Quote](URL-to-your-quote-image)
 
 ## 🙋‍♂️ About Me
 
