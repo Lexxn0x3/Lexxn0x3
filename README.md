@@ -54,3 +54,30 @@ Let's connect and create something amazing together! 🚀
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lexxn0x3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+![](https://api.codeclimate.com/v1/badges/<project_id>/maintainability)
+![](https://img.shields.io/david/<username>/<repository>.svg?style=flat-square)
+
+![](https://img.shields.io/github/license/Lexxn0x3/<repository>.svg?style=flat-square)
+![](https://img.shields.io/github/package-json/v/Lexxn0x3/<repository>.svg?style=flat-square)
+
+![](https://img.shields.io/badge/Uses-GitHub%20Codespaces-2F2625?style=flat-square&logo=github)
+![](https://img.shields.io/badge/%E2%98%95-Coffee-black?style=flat-square)
+![](https://img.shields.io/badge/Loves-Space%20Exploration-blue?style=flat-square)
+
+![](https://img.shields.io/badge/Answer%20to%20Life%2C%20Universe%20and%20Everything-42-9cf)
+
+## Don't Panic
+
+> “I may not have gone where I intended to go, but I think I have ended up where I needed to be.” - Douglas Adams, The Long Dark Tea-Time of the Soul
+
+![](https://img.shields.io/badge/Earth-Mostly%20Harmless-7B68EE.svg)
+
+## Hitchhiker's Guide to My GitHub
+
+![](https://img.shields.io/badge/Answer%20to%20Life%2C%20Universe%20and%20Everything-42-9cf)
+![](https://img.shields.io/badge/Earth-Mostly%20Harmless-7B68EE.svg)
+
+> “I may not have gone where I intended to go, but I think I have ended up where I needed to be.” - Douglas Adams
+
+**Don't Forget:** Towel Day is on May 25th. Always know where your towel is!
+
