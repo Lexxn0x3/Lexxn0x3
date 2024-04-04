@@ -12,7 +12,6 @@ Let's connect and build something amazing together!
 - 🐧 **Linux** advocate and **server** wizard
 
 
-
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="dont_panic.svg" style="width: 250px; margin-right: 20px;" />
   <div>
@@ -28,7 +27,7 @@ Let's connect and build something amazing together!
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I'm currently diving deep into the realms of Rust, Zig, and Astro, exploring their potential to revolutionize the way we code.
+- 🎓 I'm currently diving deep into the realms of Rust, Zig, and Astro
 - 🕹️ VR enthusiast eager to collaborate on projects that push the boundaries of virtual reality.
 - 🌌 Fascinated by space, I often find myself dreaming up projects that could one day reach the stars.
 - 📬 Reach out to me at `35461915+Lexxn0x3@users.noreply.github.com` for collaborations, questions, or a good tech discussion!
@@ -44,8 +43,6 @@ Let's connect and build something amazing together!
 ![](https://img.shields.io/badge/Code-Go-blue.svg)
 ![](https://img.shields.io/badge/Editor-Neovim-brightgreen.svg)
 ![](https://img.shields.io/badge/OS-Linux-lightgrey.svg)
-
-- 🚀 **Interests:** VR, Space Exploration, Gaming, Electronics
 
 ## 🌟 Featured Projects
 
@@ -63,14 +60,6 @@ Seamlessly bridge Modbus TCP devices and InfluxDB with `ModbusTcpToInfluxDB`. Ef
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Lexxn0x3&color=blue)
-
-## 😄 A Bit More About Me
-
-- 🔵 I love blue – it's not just a color; it's a part of who I am. My fursona shares this vibrant hue, reflecting my personality and style.
-- 🎮 When I'm not coding or tinkering with electronics, you'll find me immersed in the latest VR games or exploring the Linux universe.
-- 😸 I enjoy using emojis to add a splash of fun and color to conversations and projects!
-
-Let's connect and create something amazing together! 🚀
 
 ## 🏆 GitHub Trophies
 
