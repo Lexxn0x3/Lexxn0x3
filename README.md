@@ -69,4 +69,7 @@ Let's connect and create something amazing together! 🚀
 ![](https://img.shields.io/badge/Answer%20to%20Life%2C%20Universe%20and%20Everything-42-9cf)
 ![](https://img.shields.io/badge/Earth-Mostly%20Harmless-7B68EE.svg)
 
+![](https://img.shields.io/badge/Don't%20Panic-42-blueviolet?style=flat-square)
+
+
 
