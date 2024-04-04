@@ -3,6 +3,12 @@
 Welcome to my GitHub profile! I'm a CS Student and a proud member of the Siemens DI team, deeply passionate about VR, tech, space, games, electronics, Linux, servers, and general computer programs. Here, you'll find projects that span these interests, showcasing my journey through the ever-evolving world of technology.
 
 ## Don't Panic
+<p>
+  <img src="dont_panic.svg" width="100" align="left" />
+  <blockquote>
+    This is your inspirational quote. Let it be as inspiring as the image to its left.
+  </blockquote>
+</p>
 
 > “I may not have gone where I intended to go, but I think I have ended up where I needed to be.” - Douglas Adams, The Long Dark Tea-Time of the Soul
 
