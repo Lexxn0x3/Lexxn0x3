@@ -66,21 +66,3 @@ Seamlessly bridge Modbus TCP devices and InfluxDB with `ModbusTcpToInfluxDB`. Ef
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lexxn0x3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://img.shields.io/badge/Uses-GitHub%20Codespaces-2F2625?style=flat-square&logo=github)
-![](https://img.shields.io/badge/%E2%98%95-Coffee-black?style=flat-square)
-![](https://img.shields.io/badge/Loves-Space%20Exploration-blue?style=flat-square)
-
-![](https://img.shields.io/badge/Answer%20to%20Life%2C%20Universe%20and%20Everything-42-9cf)
-
-![](https://img.shields.io/badge/Earth-Mostly%20Harmless-7B68EE.svg)
-
-## Hitchhiker's Guide to My GitHub
-
-
-![](https://img.shields.io/badge/Earth-Mostly%20Harmless-7B68EE.svg)
-
-![](https://img.shields.io/badge/Don't%20Panic-42-blueviolet?style=flat-square)
-
-
-
