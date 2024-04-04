@@ -49,3 +49,8 @@ Seamlessly bridge Modbus TCP devices and InfluxDB with `ModbusTcpToInfluxDB`. Ef
 - 😸 I enjoy using emojis to add a splash of fun and color to conversations and projects!
 
 Let's connect and create something amazing together! 🚀
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lexxn0x3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
