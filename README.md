@@ -6,8 +6,6 @@ Welcome to my GitHub profile! I'm a CS Student and a proud member of the Siemens
 
 > “I may not have gone where I intended to go, but I think I have ended up where I needed to be.” - Douglas Adams, The Long Dark Tea-Time of the Soul
 
-![Quote](URL-to-your-quote-image)
-
 ## 🙋‍♂️ About Me
 
 - 🎓 I'm currently diving deep into the realms of Rust, Zig, and Astro, exploring their potential to revolutionize the way we code.
@@ -26,7 +24,6 @@ Welcome to my GitHub profile! I'm a CS Student and a proud member of the Siemens
 ![](https://img.shields.io/badge/Code-Go-blue.svg)
 ![](https://img.shields.io/badge/Editor-Neovim-brightgreen.svg)
 ![](https://img.shields.io/badge/OS-Linux-lightgrey.svg)
-![](https://img.shields.io/badge/Tools-Docker-blue.svg)
 
 - 🚀 **Interests:** VR, Space Exploration, Gaming, Electronics
 
@@ -44,7 +41,6 @@ Seamlessly bridge Modbus TCP devices and InfluxDB with `ModbusTcpToInfluxDB`. Ef
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lexxn0x3&theme=blue-green)
 
-![Lexx's contribution graph](https://activity-graph.herokuapp.com/graph?username=Lexxn0x3&theme=github)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Lexxn0x3&color=blue)
 
@@ -73,7 +69,4 @@ Let's connect and create something amazing together! 🚀
 ![](https://img.shields.io/badge/Answer%20to%20Life%2C%20Universe%20and%20Everything-42-9cf)
 ![](https://img.shields.io/badge/Earth-Mostly%20Harmless-7B68EE.svg)
 
-> “I may not have gone where I intended to go, but I think I have ended up where I needed to be.” - Douglas Adams
-
-**Don't Forget:** Towel Day is on May 25th. Always know where your towel is!
 
