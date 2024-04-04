@@ -6,11 +6,9 @@ Welcome to my GitHub profile! I'm a CS Student and a proud member of the Siemens
 <p>
   <img src="dont_panic.svg" width="100" align="left" />
   <blockquote>
-    This is your inspirational quote. Let it be as inspiring as the image to its left.
+    “I may not have gone where I intended to go, but I think I have ended up where I needed to be.” - Douglas Adams, The Long Dark Tea-Time of the Soul
   </blockquote>
 </p>
-
-> “I may not have gone where I intended to go, but I think I have ended up where I needed to be.” - Douglas Adams, The Long Dark Tea-Time of the Soul
 
 ## 🙋‍♂️ About Me
 
