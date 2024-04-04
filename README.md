@@ -16,6 +16,15 @@ Welcome to my GitHub profile! I'm a CS Student and a proud member of the Siemens
   </div>
 </div>
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="path/to/your/image.svg" style="width: 250px; margin-right: 20px;" />
+    <p style="font-size: 20px; color: #333; margin: 0;">
+      “I may not have gone where I intended to go, but I think I have ended up where I needed to be.”
+    </p>
+    <p style="font-size: 16px; color: #666; text-align: right; margin-top: 5px;">
+      — Douglas Adams, <em>The Long Dark Tea-Time of the Soul</em>
+    </p>
+</div>
 
 
 ## 🙋‍♂️ About Me
