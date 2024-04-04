@@ -41,8 +41,10 @@ Let's connect and build something amazing together!
 ![](https://img.shields.io/badge/Code-Python-blue.svg)
 ![](https://img.shields.io/badge/Code-Rust-blue.svg)
 ![](https://img.shields.io/badge/Code-Go-blue.svg)
+![](https://img.shields.io/badge/Answer%20to%20Life%2C%20Universe%20and%20Everything-42-9cf)
 ![](https://img.shields.io/badge/Editor-Neovim-brightgreen.svg)
 ![](https://img.shields.io/badge/OS-Linux-lightgrey.svg)
+
 
 ## 🌟 Featured Projects
 
@@ -75,7 +77,7 @@ Seamlessly bridge Modbus TCP devices and InfluxDB with `ModbusTcpToInfluxDB`. Ef
 
 ## Hitchhiker's Guide to My GitHub
 
-![](https://img.shields.io/badge/Answer%20to%20Life%2C%20Universe%20and%20Everything-42-9cf)
+
 ![](https://img.shields.io/badge/Earth-Mostly%20Harmless-7B68EE.svg)
 
 ![](https://img.shields.io/badge/Don't%20Panic-42-blueviolet?style=flat-square)
