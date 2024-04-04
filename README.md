@@ -1,8 +1,17 @@
-# Hello, I'm Lexx! 👋
+# Welcome to My GitHub Profile! 👋 I'm Lexx.
 
-Welcome to my GitHub profile! I'm a CS Student and a proud member of the Siemens DI team, deeply passionate about VR, tech, space, games, electronics, Linux, servers, and general computer programs. Here, you'll find projects that span these interests, showcasing my journey through the ever-evolving world of technology.
+🎓 **CS Student** | 🚀 **Siemens DI Member**
 
-## Don't Panic
+I'm all about diving deep into the realms of **Virtual Reality (VR)**, 🌌 **space exploration**, 🎮 **gaming**, and 🛠 **electronics**. With a strong affinity for **Linux** and 💾 **servers**, I'm constantly exploring the vast universe of **tech** and **computer programs**.
+
+Let's connect and build something amazing together!
+
+- 🌐 Exploring **VR** and cutting-edge technology
+- 🚀 Passionate about **space** and beyond
+- 🎮 Gaming enthusiast and **electronics** tinkerer
+- 🐧 **Linux** advocate and **server** wizard
+
+
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="dont_panic.svg" style="width: 250px; margin-right: 20px;" />
