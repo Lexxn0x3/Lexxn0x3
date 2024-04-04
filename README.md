@@ -1,6 +1,6 @@
 # Hello, I'm Lexx! 👋
 
-Welcome to my GitHub profile! I'm a CS Student and a proud member of the Siemens DI team, deeply passionate about VR, tech, space, games, electronics, Linux, servers, and general computer programs. Here, you'll find projects that span across these interests, showcasing my journey through the ever-evolving world of technology.
+Welcome to my GitHub profile! I'm a CS Student and a proud member of the Siemens DI team, deeply passionate about VR, tech, space, games, electronics, Linux, servers, and general computer programs. Here, you'll find projects that span these interests, showcasing my journey through the ever-evolving world of technology.
 
 ## 🙋‍♂️ About Me
 
@@ -11,8 +11,17 @@ Welcome to my GitHub profile! I'm a CS Student and a proud member of the Siemens
 
 ## 🔧 Technologies & Tools
 
-- 💻 **Programming Languages:** C#, C++, Python, Rust, Go
-- 🛠️ **Tools:** Neovim, Linux, and a variety of server management tools
+### Programming Languages and Tools
+
+![](https://img.shields.io/badge/Code-C%23-blue.svg)
+![](https://img.shields.io/badge/Code-C++-blue.svg)
+![](https://img.shields.io/badge/Code-Python-blue.svg)
+![](https://img.shields.io/badge/Code-Rust-blue.svg)
+![](https://img.shields.io/badge/Code-Go-blue.svg)
+![](https://img.shields.io/badge/Editor-Neovim-brightgreen.svg)
+![](https://img.shields.io/badge/OS-Linux-lightgrey.svg)
+![](https://img.shields.io/badge/Tools-Docker-blue.svg)
+
 - 🚀 **Interests:** VR, Space Exploration, Gaming, Electronics
 
 ## 🌟 Featured Projects
@@ -23,11 +32,15 @@ Seamlessly bridge Modbus TCP devices and InfluxDB with `ModbusTcpToInfluxDB`. Ef
 ### MetadaterFixer
 `MetaFixer` breathes new life into your JPEG/MP4 files. It fixes creation dates by extracting date/time from filenames, supporting both human-readable dates and Unix timestamps. Ideal for files downloaded from platforms like Telegram. Explore `MetaFixer` [here](https://github.com/Lexxn0x3/MetadaterFixer).
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats and Badges
 
 ![Lexx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lexxn0x3&show_icons=true&theme=blue-green)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lexxn0x3&layout=compact&theme=blue-green)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lexxn0x3&theme=blue-green)
+
+![Lexx's contribution graph](https://activity-graph.herokuapp.com/graph?username=Lexxn0x3&theme=github)
+
+![Profile views](https://komarev.com/ghpvc/?username=Lexxn0x3&color=blue)
 
 ## 😄 A Bit More About Me
 
